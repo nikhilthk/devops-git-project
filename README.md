@@ -16,3 +16,12 @@ A small project to practice Git and GitHub version-control workflows as part of 
 
 ## Author
 nikhilthk
+
+## Screenshots
+![Repo created](screenshots/repo-created.png)
+![Dev branch](screenshots/dev-branch.png)
+![Feature branch](screenshots/feature-branch.png)
+![Pull request](screenshots/pull-request.png)
+![Dev merged to main](screenshots/pr-dev-to-main.png)
+![Git tag](screenshots/git-tag.png)
+
